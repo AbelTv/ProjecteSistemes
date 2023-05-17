@@ -1,0 +1,143 @@
+body{
+    margin:0px;
+    font-family: 'Proxima Nova', sans-serif;
+}
+
+.background-img{
+    width: 100%;
+}
+.div-content-big{
+    max-width: 100%;
+
+}
+.margin-div{
+   
+}
+
+.div-img{
+    display: flex;
+    position: relative;
+}
+
+.div-menu{
+    position: absolute;
+    display: flex;
+    top:17;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.menu-left{
+    display: flex;
+    margin-left: 2%;
+}
+.menu-right{
+    display: flex;
+    align-items: center;
+    
+}
+.icon1 span{
+    color:white;
+    font-weight: bold;
+}
+.icon1{
+    margin-left: 35px;
+    align-items: center;
+    display: flex;
+}
+
+.icon{
+    width: 13%;
+    padding-left: 2px;
+}
+.icon2{
+    width: 22%;
+}
+.d-icon{
+    display: flex;
+}
+.span{
+    color:white;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 6px;
+
+}
+
+.carro{
+    width: 17%;
+}
+.cart-pad{
+    margin-left: 6px;
+}
+
+.mid-image{
+    position: absolute;
+    top: 0px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    max-width: 29%;
+}
+.metallica-logo{
+    width: 100%;
+}
+
+
+.tour-dates{
+    font-size: 30px;
+    font-weight: bold;
+}
+.other-content{
+    display: flex;
+    justify-content: center;
+}
+.div2{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.titol{
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family: 'PROXIMA NOVA';
+}
+
+.buttonn{
+    justify-content: center;
+    display: flex;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.boto1{
+    font-family: 'Proxima Nova', sans-serif;
+    padding:10px;
+    background-color: white;
+    font-weight: bold;
+}
+.tour{
+    justify-content: center;
+    display: flex;
+    margin: 3%;
+}
+.title{
+    justify-content: center;
+    display: flex;
+    margin-bottom: 3%;
+}
+
+.instagram{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Proxima Nova', sans-serif;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+
+.blacky{
+    width: 100%;
+}
